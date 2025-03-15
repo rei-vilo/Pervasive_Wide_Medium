@@ -19,6 +19,10 @@
 // Release 614: Improved BWRY examples
 // Release 702: Added support for 417-QS-0A
 // Release 700: Refactored screen and board functions
+// Release 701: Improved functions names consistency
+// Release 701: Added support for 290-KS-0F
+// Release 702: Added support for 206-KS-0E
+// Release 703: Added support for 152-KS-0J
 // Release 800: Read OTP memory
 // Release 801: Improved OTP implementation
 // Release 802: Added references to application notes
