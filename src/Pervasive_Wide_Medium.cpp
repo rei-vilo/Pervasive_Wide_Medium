@@ -8,7 +8,6 @@
 //
 // Copyright (c) Pervasive Displays Inc., 2021-2026
 // Licence All rights reserved
-
 //
 // See Pervasive_Wide_Medium.h for references
 //
@@ -76,6 +75,7 @@ void Pervasive_Wide_Medium::COG_getDataOTP()
     switch (u_eScreen_EPD)
     {
         case eScreen_EPD_340_KS_0G:
+
             _chipId = 0x17;
             break;
 
@@ -276,6 +276,7 @@ void Pervasive_Wide_Medium::COG_stopDCDC()
     switch (u_eScreen_EPD)
     {
         case eScreen_EPD_340_KS_0G:
+
             b_sendCommandData8(0x09, 0x7b);
             b_sendCommandData8(0x05, 0x3d);
             b_sendCommandData8(0x09, 0x7a);
