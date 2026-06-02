@@ -293,6 +293,11 @@ void Pervasive_Wide_Medium::COG_stopDCDC()
             b_sendCommandData8(0x09, 0x00);
             break;
     }
+	
+	// Additional steps for Power OFF
+	// clear D/C, RESET, CS, SPI pins to LOW
+	// keep BUSY floating
+	// cut Vcc off
 }
 //
 // --- End of Small screens with Q film
