@@ -5,8 +5,8 @@
 /// @details Project Pervasive Displays Library Suite
 /// @n Based on highView technology
 ///
-/// @date 21 Jan 2025
-/// @version 902
+/// @date 9 June 2026
+/// @version 904
 ///
 /// @copyright (c) Pervasive Displays Inc., 2021-2026
 /// @copyright All rights reserved
@@ -50,7 +50,7 @@
 ///
 /// @brief Library release number
 ///
-#define DRIVER_WIDE_MEDIUM_RELEASE 902
+#define DRIVER_WIDE_MEDIUM_RELEASE 904
 
 ///
 /// @name List of supported screens
