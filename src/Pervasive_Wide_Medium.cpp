@@ -23,6 +23,7 @@
 // Release 900: Added new driver library
 // Release 901: Added support for screen 340-KS-0G
 // Release 904: Updated year of copyright
+// Release 1000: Synchronised with PDLS_Common
 //
 
 // Header
