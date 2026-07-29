@@ -1,8 +1,6 @@
 # Pervasive Displays Library Suite - Driver for screens with wide temperature and embedded fast update
 
-[![Release](https://img.shields.io/github/v/release/pervasivedisplays/Pervasive_Wide_Medium)](https://github.com/pervasivedisplays/Pervasive_Wide_Medium/releases) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9f09780839f7479285cb931ffe4954d7)](https://app.codacy.com/gh/pervasivedisplays/Pervasive_Wide_Medium/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Arduino lint](https://github.com/pervasivedisplays/Pervasive_Wide_Medium/actions/workflows/main.yml/badge.svg) [![GitHub issues](https://img.shields.io/github/issues/pervasivedisplays/Pervasive_Wide_Medium)](https://github.com/pervasivedisplays/Pervasive_Wide_Medium/issues)
-
-[![](https://img.shields.io/badge/-Knowledge_Base-orange)](https://docs.pervasivedisplays.com/knowledge/)
+[![Release](https://img.shields.io/github/v/release/pervasivedisplays/Pervasive_Wide_Medium)](https://github.com/pervasivedisplays/Pervasive_Wide_Medium/releases) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9f09780839f7479285cb931ffe4954d7)](https://app.codacy.com/gh/pervasivedisplays/Pervasive_Wide_Medium/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Arduino lint](https://github.com/pervasivedisplays/Pervasive_Wide_Medium/actions/workflows/main.yml/badge.svg) [![GitHub issues](https://img.shields.io/github/issues/pervasivedisplays/Pervasive_Wide_Medium)](https://github.com/pervasivedisplays/Pervasive_Wide_Medium/issues) [![](https://img.shields.io/badge/-Knowledge_Base-orange)](https://docs.pervasivedisplays.com/knowledge/)
 
 The driver is specifically designed for the [Pervasive Displays](https://www.pervasivedisplays.com) e-paper screens, extension boards and evaluation kits.
 
@@ -28,8 +26,7 @@ The driver library can be used stand-alone or with the [Pervasive Displays Libra
 
 ## Documentation
 
-* [ApplicationNote_SingleChip_wideTemperature_EPD_v01_20230720]()
-* [Pervasive Displays Technical Wiki](https://docs.pervasivedisplays.com/) 
+* [Knowledge Base](https://docs.pervasivedisplays.com/knowledge/) [![](https://img.shields.io/badge/-Knowledge_Base-orange)](https://docs.pervasivedisplays.com/knowledge/)
 * [Pervasive Displays Inc. (龍亭新技股份有限公司)](https://www.pervasivedisplays.com/)
 * [Product line](https://www.pervasivedisplays.com/products/)
 
