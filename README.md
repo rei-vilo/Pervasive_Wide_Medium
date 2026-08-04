@@ -28,7 +28,6 @@ The driver library can be used stand-alone or with the [Pervasive Displays Libra
 
 ## Documentation
 
-* [ApplicationNote_SingleChip_wideTemperature_EPD_v01_20230720]()
 * [Pervasive Displays Technical Wiki](https://docs.pervasivedisplays.com/) 
 * [Pervasive Displays Inc. (龍亭新技股份有限公司)](https://www.pervasivedisplays.com/)
 * [Product line](https://www.pervasivedisplays.com/products/)
