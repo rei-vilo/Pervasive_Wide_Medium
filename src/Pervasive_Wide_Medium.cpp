@@ -22,7 +22,9 @@
 // Release 802: Refactored CoG functions
 // Release 900: Added new driver library
 // Release 901: Added support for screen 340-KS-0G
-// Release 904:
+// Release 904: Updated year of copyright
+// Release 1000: Synchronised with PDLS_Common
+//
 
 // Header
 #include "Pervasive_Wide_Medium.h"
@@ -293,11 +295,11 @@ void Pervasive_Wide_Medium::COG_stopDCDC()
             b_sendCommandData8(0x09, 0x00);
             break;
     }
-	
-	// Additional steps for Power OFF
-	// clear D/C, RESET, CS, SPI pins to LOW
-	// keep BUSY floating
-	// cut Vcc off
+
+    // Additional steps for Power OFF
+    // clear D/C, RESET, CS, SPI pins to LOW
+    // keep BUSY floating
+    // cut Vcc off
 }
 //
 // --- End of Small screens with Q film
